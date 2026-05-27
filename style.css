@@ -1,1 +1,14 @@
-
+botton{
+  background-color: green;
+  color: black ;
+  font-size: 30px;
+  padding: 30px;
+  margin: 10px;
+}
+body{
+  background-color: #286569;
+  width: 100vw;
+  height: 100vh;
+  place-content: center;
+  display: grid;
+}
